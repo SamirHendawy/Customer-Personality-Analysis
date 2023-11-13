@@ -14,13 +14,16 @@
 
 ## Steps
 
-- 1. Data Preprocessing
-- 1.1 Data Cleaning
+- 1 Data Cleaning
 - **i filled Missing Values in Income Column with median by Education Level as Sub-Group. i did it because there is outliers and Income varies depending on the level of education.**
-- 1.2 Feature Engineering (Extraction) and Data Preparation
-- 2. EDA & Data Analysis
-- 2.1 Univariate Analysis
-- 2.2   
+- 2. Feature Engineering (Extraction) and Data Preparation
+- 3. Univariate Analysis
+- 4. Bi-variate Analysis & Multivariate analysis
+- 5. Label encoding
+- 6. Scaling
+- 7. Dimensionality Reduction
+- 8. Clustring
+
 ### Prerequisites
 
 - Required Python packages (listed in `requirements.txt`)
