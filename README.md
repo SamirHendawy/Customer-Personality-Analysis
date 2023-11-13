@@ -1,8 +1,11 @@
 # Customer Personality Analysis
 
+[Notebook in Kaggle](https://www.kaggle.com/code/samerhendawy/customer-personality-analysis)
+
 ## Overview
 
 **Customer Personality Analysis is a project that aims to analyze and understand the personality traits of customers based on relevant data. This can be useful for businesses to tailor their marketing strategies, improve customer engagement, and enhance overall customer satisfaction.**
+
 
 ## Features
 
