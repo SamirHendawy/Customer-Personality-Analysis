@@ -14,7 +14,7 @@
 
 ## Steps
 
-- 1 Data Cleaning
+- 1. Data Cleaning
 - **i filled Missing Values in Income Column with median by Education Level as Sub-Group. i did it because there is outliers and Income varies depending on the level of education.**
 - 2. Feature Engineering (Extraction) and Data Preparation
 - 3. Univariate Analysis
